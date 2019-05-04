@@ -4,8 +4,7 @@ import Matter from 'matter-js';
 import "./styles.css";
 
 class App extends React.Component
-{
-  
+{  
   render()
   {
     var Engine = Matter.Engine;
