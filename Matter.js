@@ -1,7 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import Matter from 'matter-js';
-
 import "./styles.css";
 
 class App extends React.Component
